@@ -1,7 +1,7 @@
 package teste;
 
-//Versão2
+//Versão3
 public class teste {
 
-	//Affff
+	// :-)
 }
